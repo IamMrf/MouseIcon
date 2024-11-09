@@ -5,8 +5,8 @@
 Hi! thank you for use my cursors.
 
 ## Installation: 
-To install the cursor you want, go to the "dark" or "light" folder. Inside, open the "Cursor" folder, where you’ll find a file named "install." Right-click on this file and select "install" from the menu. If you’re on Windows 11, you’ll need to click "More options" first to see the "install" option. I hope you enjoy them!
 
+First, download the zip file. To install the cursor you want, navigate to the "dark" or "light" folder. Open the "Cursor" folder inside, and you’ll find a file named "install." Right-click on this file and choose "install" from the menu. If you're using Windows 11, click "More options" first to access the "install" option. Enjoy your new cursors!
 
 ### AGREEMENT:
 
